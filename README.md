@@ -5,19 +5,11 @@ My name is Muhammad Ilyas and I'm a Full Stack developer/Product Manager.
 I have been making constant efforts to make a mark in the field of Computer Science, a thirst for knowledge and a productive approach to practicality, I am yearning to unleash my utmost potential. I have always been inspired by people who started almost from nothing and made a name for themselves. I aspire to become one of them. I see myself as capable of heading my own career and bring it to such a level that it would impact other people and change their lives. 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
+Python, Django, React.Js, Vue.js, AWS, Linux, Docker and Kubernetes
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on different Data Science projects
-- 🌱 I’m currently learning Deep Learning
+- 🔭 I'm currently working on different Ecommerce projects
 
 
 ## &#x1f4c8; GitHub Stats
