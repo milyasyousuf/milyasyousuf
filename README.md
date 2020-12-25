@@ -1,16 +1,40 @@
-### Hi there 👋
+### # Hello, folks! 👋
+My name is Muhammad Ilyas and I'm a Full Stack developer/Product Manager.
 
-<!--
-**milyasyousuf/milyasyousuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### # About
+I have been making constant efforts to make a mark in the field of Computer Science, a thirst for knowledge and a productive approach to practicality, I am yearning to unleash my utmost potential. I have always been inspired by people who started almost from nothing and made a name for themselves. I aspire to become one of them. I see myself as capable of heading my own career and bring it to such a level that it would impact other people and change their lives. 
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on different Data Science projects
+- 🌱 I’m currently learning Deep Learning
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/milyasyousuf/milyasyousuf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=milyasyousuf&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zohaib Abbas's GitHub Stats" />
+</a>
+
+
+[twitter]: https://twitter.com/milyasyousuf
+[instagram]: https://instagram.com/milyasyousuf
+[linkedin]: https://www.linkedin.com/in/milyasyousuf/
+[facebook]: https://www.facebook.com/milyasyousuf
+
+### Connect with me:
+
+[<img align="left" alt="milyasyousuf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="milyasyousuf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="milyasyousuf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="milyasyousuf | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
