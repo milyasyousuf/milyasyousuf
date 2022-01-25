@@ -10,7 +10,7 @@ Python, Django, React.Js, Vue.js, AWS, Linux, Docker and Kubernetes
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on different Ecommerce projects
+- 🔭 I'm currently working on different Digital Commerce projects
 
 
 ## &#x1f4c8; GitHub Stats
